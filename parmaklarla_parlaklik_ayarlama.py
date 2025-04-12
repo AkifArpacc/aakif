@@ -1,4 +1,7 @@
 #@markdown We implemented some functions to visualize the hand landmark detection results. <br/> Run the following cell to activate the functions.
+
+# Mehmet Akif ARPAÇ 2023688009
+
 import screen_brightness_control as sbc
 from mediapipe import solutions
 from mediapipe.framework.formats import landmark_pb2
